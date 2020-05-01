@@ -7,6 +7,7 @@ while True:
     if leng == 1:
         esp()
     elif leng == 2:
-        print('Still work in progress :(')
+        input('Still work in progress :(\nPress {ENTER}')
     else:
-        print('Numero incorrecto // Wrong number')
+        print('Numero incorrecto // Wrong number\nPress {ENTER}')
+
