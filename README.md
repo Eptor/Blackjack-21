@@ -1,2 +1,2 @@
 # Blackjack
- A blackjack game made with python
+Juego de blackjack hecho en python
