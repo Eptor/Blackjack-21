@@ -157,7 +157,7 @@ class Jugador:
 
 while True:
 
-    nombre = input("Cual es tu nombre, Puñetón?\n> ")
+    nombre = input("Cual es tu nombre, amigo?\n> ")
 
     next = input(f"\nEntonces, te llamas {nombre}?\n> ")
 
